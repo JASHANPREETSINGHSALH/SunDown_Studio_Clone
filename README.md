@@ -3,6 +3,9 @@
 ## Overview
 This repository contains a responsive clone of the Sundow Studio website, created using HTML, CSS, Swiper.js, and Locomotive Scroll. The project showcases modern web development techniques and responsive design practices.
 
+## Live Demo
+You can view the live demo of the website - [Sundown Studio Clone](https://jashanpreetsinghsalh.github.io/Sundown_Studio_Clone/).
+
 ## Features
 - **Responsive Design:** The website is fully responsive, providing an optimal viewing experience across a wide range of devices (desktops, tablets, and smartphones).
 - **Smooth Scrolling:** Implemented using Locomotive Scroll for a seamless and engaging user experience.
@@ -15,9 +18,6 @@ This repository contains a responsive clone of the Sundow Studio website, create
 - **JavaScript**
 - **Swiper.js**
 - **Locomotive Scroll**
-
-## Live Demo
-You can view the live demo of the website - [Sundown Studio Clone](https://jashanpreetsinghsalh.github.io/Sundown_Studio_Clone/).
 
 ## Installation
 
